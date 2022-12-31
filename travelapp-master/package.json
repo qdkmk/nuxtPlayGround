@@ -16,16 +16,16 @@
     "gsap": "^1.20.4",
     "mapbox-gl": "^0.44.1",
     "node-sass": "^4.8.3",
-    "nuxt-edge": "^2.0.0-25419351.c5880cc",
-    "sass-loader": "^6.0.7",
-    "style-loader": "^0.20.3",
+    "nuxt-edge": "^2.16.0-27720022.54e852f",
+    "sass-loader": "^13.2.0",
+    "style-loader": "^3.3.1",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
     "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
